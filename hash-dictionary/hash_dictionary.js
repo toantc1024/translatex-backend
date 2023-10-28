@@ -34,6 +34,20 @@ class Hash_dictionary {
     // Bug when word not found we cause error!
   }
 
+  delete(word) {
+    const index_1 = this.hash_function(word);
+    const index_2 = this.second_hash_function(
+      this.first_hash_table[index_1].a,
+      this.first_hash_table[index_1].b,
+      this.first_hash_table[index_1].m,
+      this.string_to_integer_and_hash(word, this.first_hash_table[index_1].m)
+    );
+
+    if (this.first_hash_table[index_1][index_2] != undefined) {
+      delete this.first_hash_table[index_1][index_2];
+    }
+  }
+
   search(word) {
     const index_1 = this.hash_function(word);
     const index_2 = this.second_hash_function(

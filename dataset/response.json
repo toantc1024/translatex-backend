@@ -1,0 +1,2855 @@
+[
+  [
+    {
+      "word": "a",
+      "phonetic": "/\u00e6\u026a/",
+      "phonetics": [
+        { "text": "/\u00e6\u026a/", "audio": "" },
+        { "text": "/e\u026a/", "audio": "" },
+        {
+          "text": "/e\u026a/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/a-1-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1220808"
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The name of the Latin script letter A/a.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/a"]
+    },
+    {
+      "word": "a",
+      "phonetics": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "definitions": [
+            {
+              "definition": "(crosswords) across",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Do you have the answer for 23a?"
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/a"]
+    },
+    {
+      "word": "a",
+      "phonetic": "/\u0259/",
+      "phonetics": [{ "text": "/\u0259/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "definitions": [
+            {
+              "definition": "To do with position or direction; In, on, at, by, towards, onto.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Stand a tiptoe."
+            },
+            {
+              "definition": "To do with separation; In, into.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Torn a pieces."
+            },
+            {
+              "definition": "To do with time; Each, per, in, on, by.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "I brush my teeth twice a day."
+            },
+            {
+              "definition": "To do with method; In, with.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To do with role or capacity; In.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "A God\u2019s name."
+            },
+            {
+              "definition": "To do with status; In.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To do with process, with a passive verb; In the course of, experiencing.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To do with an action, an active verb; Engaged in.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To do with an action/movement; To, into.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/a"]
+    },
+    {
+      "word": "a",
+      "phonetic": "/\u0259/",
+      "phonetics": [{ "text": "/\u0259/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "definitions": [
+            {
+              "definition": "Of.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "The name of John a Gaunt."
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/a"]
+    },
+    {
+      "word": "a",
+      "phonetic": "/\u0254/",
+      "phonetics": [{ "text": "/\u0254/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            { "definition": "All.", "synonyms": [], "antonyms": [] }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "adverb",
+          "definitions": [
+            { "definition": "All.", "synonyms": [], "antonyms": [] }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/a"]
+    }
+  ],
+  [
+    {
+      "word": "a",
+      "phonetic": "/\u00e6\u026a/",
+      "phonetics": [
+        { "text": "/\u00e6\u026a/", "audio": "" },
+        { "text": "/e\u026a/", "audio": "" },
+        {
+          "text": "/e\u026a/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/a-1-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1220808"
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The name of the Latin script letter A/a.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/a"]
+    },
+    {
+      "word": "a",
+      "phonetics": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "definitions": [
+            {
+              "definition": "(crosswords) across",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Do you have the answer for 23a?"
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/a"]
+    },
+    {
+      "word": "a",
+      "phonetic": "/\u0259/",
+      "phonetics": [{ "text": "/\u0259/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "definitions": [
+            {
+              "definition": "To do with position or direction; In, on, at, by, towards, onto.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Stand a tiptoe."
+            },
+            {
+              "definition": "To do with separation; In, into.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Torn a pieces."
+            },
+            {
+              "definition": "To do with time; Each, per, in, on, by.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "I brush my teeth twice a day."
+            },
+            {
+              "definition": "To do with method; In, with.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To do with role or capacity; In.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "A God\u2019s name."
+            },
+            {
+              "definition": "To do with status; In.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To do with process, with a passive verb; In the course of, experiencing.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To do with an action, an active verb; Engaged in.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To do with an action/movement; To, into.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/a"]
+    },
+    {
+      "word": "a",
+      "phonetic": "/\u0259/",
+      "phonetics": [{ "text": "/\u0259/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "preposition",
+          "definitions": [
+            {
+              "definition": "Of.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "The name of John a Gaunt."
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/a"]
+    },
+    {
+      "word": "a",
+      "phonetic": "/\u0254/",
+      "phonetics": [{ "text": "/\u0254/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            { "definition": "All.", "synonyms": [], "antonyms": [] }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "adverb",
+          "definitions": [
+            { "definition": "All.", "synonyms": [], "antonyms": [] }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/a"]
+    }
+  ],
+  [
+    {
+      "word": "aa",
+      "phonetic": "/\u02c8\u0251\u02d0.\u0251\u02d0/",
+      "phonetics": [
+        { "text": "/\u02c8\u0251\u02d0.\u0251\u02d0/", "audio": "" },
+        { "text": "/\u02c8\u0251.\u0251/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A form of lava flow associated with Hawaiian-type volcanoes, consisting of basaltic rock, usually dark-colored with a jagged and loose, clinkery surface. Compare pahoehoe.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/aa"]
+    },
+    {
+      "word": "aa",
+      "phonetics": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Initialism of acting age.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Initialism of alveolar-arterial.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Initialism of approximate absolute.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Initialism of armature accelerator.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Initialism of ascending aorta.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Initialism of atomic absorption.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Initialism of author's alteration.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Initialism of average audience.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Initialism of arctic-alpine.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Initialism of always afloat.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A clear colourless organic acid, CH3COOH, formed by the oxidation of ethanol; it is used as a solvent and has very many industrial applications; it is the major acidic component of vinegar.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": ["E260", "preservative", "ethanoic acid"],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Any organic compound containing both an amino and a carboxylic acid functional group.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Any of the twenty naturally occurring \u03b1-amino acids (having the amino, and carboxylic acid groups on the same carbon atom), and a variety of side chains, that combine, via peptide bonds, to form proteins.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "1-amino-2-propanone, a secondary amino ketone",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A long-chain polyunsaturated fatty acid, having 20 carbon atoms and four double bonds, found in animal fats; it is essential for human nutrition, being a precursor to the production of prostaglandins.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": [
+        "https://en.wiktionary.org/wiki/aa",
+        "https://en.wiktionary.org/wiki/acetic%20acid",
+        "https://en.wiktionary.org/wiki/amino%20acid",
+        "https://en.wiktionary.org/wiki/aminoacetone",
+        "https://en.wiktionary.org/wiki/arachidonic%20acid"
+      ]
+    },
+    {
+      "word": "aa",
+      "phonetics": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Abbreviation of ana.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/aa"]
+    }
+  ],
+  [
+    {
+      "word": "aam",
+      "phonetic": "/\u0251\u02d0m/",
+      "phonetics": [
+        { "text": "/\u0251\u02d0m/", "audio": "" },
+        { "text": "/\u0251m/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A Dutch and German measure of liquids, used in England for Rhine wine, varying in different cities, being in Amsterdam about 41 wine gallons, in Antwerp 36\u00bd and in Hamburg 38\u00bc.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/aam"]
+    }
+  ],
+  [
+    {
+      "word": "aardvark",
+      "phonetic": "/\u02c8\u0251\u02d0d.v\u0251\u02d0k/",
+      "phonetics": [
+        { "text": "/\u02c8\u0251\u02d0d.v\u0251\u02d0k/", "audio": "" },
+        {
+          "text": "/\u02c8\u0251\u0279d.v\u0251\u0279k/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aardvark-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=50309155",
+          "license": {
+            "name": "BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The nocturnal, insectivorous, burrowing, mammal Orycteropus afer, of the order Tubulidentata, somewhat resembling a pig, common in some parts of sub-Saharan Africa.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "The aardvark burrows in the ground and feeds mostly on termites, which it catches with its long, slimy tongue."
+            },
+            {
+              "definition": "A silly or credulous person who is prone to mistakes or blunders.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "I walked into the wrong bathroom like a total aardvark."
+            }
+          ],
+          "synonyms": [
+            "African anteater",
+            "ant bear",
+            "ant-bear",
+            "antbear",
+            "anteater",
+            "earth pig",
+            "fool"
+          ],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/aardvark"]
+    }
+  ],
+  [
+    {
+      "word": "aardwolf",
+      "phonetic": "/\u02c8\u0251\u02d0d\u02ccw\u028alf/",
+      "phonetics": [
+        { "text": "/\u02c8\u0251\u02d0d\u02ccw\u028alf/", "audio": "" },
+        { "text": "/\u02c8\u0251\u0279d.\u02ccw\u028alf/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The nocturnal, insectivorous, mammal, Proteles cristatus, of southern and eastern Africa, related to and resembling the hyena.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/aardwolf"]
+    }
+  ],
+  [
+    {
+      "word": "ab",
+      "phonetic": "/\u00e6b/",
+      "phonetics": [{ "text": "/\u00e6b/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Abdominal muscle.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/ab"]
+    },
+    {
+      "word": "ab",
+      "phonetic": "/\u00e6b/",
+      "phonetics": [{ "text": "/\u00e6b/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "An abscess caused by injecting an illegal drug, usually heroin.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/ab"]
+    },
+    {
+      "word": "ab",
+      "phonetic": "/\u00e6b/",
+      "phonetics": [{ "text": "/\u00e6b/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            { "definition": "To abseil.", "synonyms": [], "antonyms": [] }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "(now rare outside medicine) To miscarry; to bring forth (non-living) offspring prematurely.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To cause a premature termination of (a fetus); to end a pregnancy before term.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To end prematurely; to stop in the preliminary stages; to turn back.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To stop or fail at something in the preliminary stages.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To become checked in normal development, so as either to remain rudimentary or shrink away wholly; to cease organic growth before maturation; to become sterile.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To cause an organism to develop minimally; to cause rudimentary development to happen; to prevent maturation.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To abandon a mission at any point after the beginning of the mission and prior to its completion.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To terminate a mission involving a missile or rocket; to destroy a missile or rocket prematurely.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To terminate a process prior to completion.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The expulsion from the womb of a foetus or embryo before it is fully developed, with loss of the foetus; either naturally as a spontaneous abortion (now usually called a miscarriage), or deliberately as an induced abortion.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "An aborted foetus; an abortus.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "A misshapen person or thing; a monstrosity.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Failure or abandonment of a project, promise, goal etc.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Arrest of development of any organ, so that it remains an imperfect formation or is absorbed.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "The cessation of an illness or disease at a very early stage.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "aborticide",
+            "embryoctony",
+            "feticide",
+            "foeticide",
+            "pregnancy",
+            "termination",
+            "aborticide",
+            "feticide",
+            "foeticide",
+            "pregnancy",
+            "termination",
+            "misbirth",
+            "miscarriage"
+          ],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "adverb",
+          "definitions": [
+            {
+              "definition": "On all sides; around.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "I looked about at the scenery that surrounded me."
+            },
+            {
+              "definition": "Here and there; around; in one place and another; up and down.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Bits of old machinery were lying about."
+            },
+            {
+              "definition": "From one place or position to another in succession; indicating repeated movement or activity.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "walking about;\u2003 rushing about;\u2003 jumping about;\u2003 thrashing about"
+            },
+            {
+              "definition": "Indicating unproductive or unstructured activity.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "messing about;\u2003  fooling about;\u2003 loafing about"
+            },
+            {
+              "definition": "Nearly; approximately; with close correspondence in quality, manner, degree, quantity, or time; almost.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Dinner's about ready."
+            },
+            {
+              "definition": "Near; in the vicinity.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To a reversed order; half round; facing in the opposite direction; from a contrary point of view.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "to face about;\u2003 to turn oneself about"
+            },
+            {
+              "definition": "In succession; one after another; in the course of events.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "In circuit; circularly; by a circuitous way; around the outside; in circumference.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "a mile about, and a third of a mile across"
+            }
+          ],
+          "synonyms": ["around"],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "preposition",
+          "definitions": [
+            {
+              "definition": "In a circle around; all round; on every side of; on the outside of.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "The snake was coiled about his ankle."
+            },
+            {
+              "definition": "Over or upon different parts of; through or over in various directions; here and there in; to and fro in; throughout.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "He was well known about town."
+            },
+            {
+              "definition": "Indicates that something will happen very soon; indicates a plan or intention to do something.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Concerning; with regard to; on account of; on the subject of; to affect.",
+              "synonyms": ["apropos", "as for"],
+              "antonyms": [],
+              "example": "He talked a lot about his childhood."
+            },
+            {
+              "definition": "Concerned with; engaged in; intent on.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "to be about one's business"
+            },
+            {
+              "definition": "Within or in the immediate neighborhood of; in contiguity or proximity to; near, as to place.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "I can't find my reading glasses, but they must be somewhere about the house."
+            },
+            {
+              "definition": "On one's person; nearby the person.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "I had no weapon about me but a stick."
+            },
+            {
+              "definition": "In or near, as in mental faculties or in the possession of; under the control of; at one's command; in one's makeup.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "He has his wits about him."
+            }
+          ],
+          "synonyms": ["apropos", "as for"],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": [
+        "https://en.wiktionary.org/wiki/ab",
+        "https://en.wiktionary.org/wiki/abort",
+        "https://en.wiktionary.org/wiki/abortion",
+        "https://en.wiktionary.org/wiki/about"
+      ]
+    },
+    {
+      "word": "ab",
+      "phonetic": "/\u00e6b/",
+      "phonetics": [{ "text": "/\u00e6b/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The early stages of; the beginning process; the start.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/ab"]
+    }
+  ],
+  [
+    {
+      "word": "aba",
+      "phonetic": "/\u0259\u02c8b\u0251\u02d0/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8b\u0251\u02d0/", "audio": "" },
+        { "text": "/\u0259\u02c8b\u0251/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A coarse, often striped, felted fabric from the Middle East, woven from goat or camel hair.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "A loose-fitting sleeveless garment, made from aba or silk, worn by Arabs.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "An outer garment made of the above, very simple in form, worn by the Arabs of the desert. The illustration shows such an aba, made of two breadths of stuff sewed together to make an oblong about four by nine feet.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": ["abaya"],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/aba"]
+    },
+    {
+      "word": "aba",
+      "phonetic": "/\u02c8\u00e6.b\u0259/",
+      "phonetics": [{ "text": "/\u02c8\u00e6.b\u0259/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "An altazimuth used for astronomy on either land or water.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/aba"]
+    },
+    {
+      "word": "aba",
+      "phonetics": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The electric fish Gymnarchus niloticus (frankfish, freshwater rat-tail, African knifefish), found in swamps, lakes and rivers in Africa.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/aba"]
+    }
+  ],
+  [
+    {
+      "word": "abaca",
+      "phonetic": "/\u02cc\u00e6b.\u0259\u02c8k\u0251/",
+      "phonetics": [
+        { "text": "/\u02cc\u00e6b.\u0259\u02c8k\u0251/", "audio": "" },
+        { "text": "/\u02cc\u00e6b.\u0259\u02c8k\u0251/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Musa textilis, a species of banana tree native to the Philippines grown for its textile, rope- and papermaking fibre.",
+              "synonyms": ["Manila Hemp", "Manilla hemp", "textile banana"],
+              "antonyms": []
+            },
+            {
+              "definition": "The fiber of this plant, used in rope.",
+              "synonyms": ["Manila hemp", "Manilla hemp"],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "Manila Hemp",
+            "Manilla hemp",
+            "textile banana",
+            "Manila hemp",
+            "Manilla hemp"
+          ],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abaca"]
+    }
+  ],
+  [
+    {
+      "word": "aback",
+      "phonetic": "/\u0259\u02c8b\u00e6k/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8b\u00e6k/", "audio": "" },
+        {
+          "text": "/\u0259\u02c8b\u00e6k/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aback-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=68433901"
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "definitions": [
+            {
+              "definition": "Towards the back or rear; backwards.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "In the rear; a distance behind.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "By surprise; startled; dumbfounded. (see usage)",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Backward against the mast; said of the sails when pressed by the wind from the \"wrong\" (forward) side, or of a ship when its sails are set that way.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/aback"]
+    },
+    {
+      "word": "aback",
+      "phonetic": "/\u0259\u02c8b\u00e6k/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8b\u00e6k/", "audio": "" },
+        {
+          "text": "/\u0259\u02c8b\u00e6k/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aback-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=68433901"
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            { "definition": "An abacus.", "synonyms": [], "antonyms": [] }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/aback"]
+    }
+  ],
+  [
+    {
+      "word": "abacus",
+      "phonetic": "/-sa\u026a/",
+      "phonetics": [
+        { "text": "/-sa\u026a/", "audio": "" },
+        {
+          "text": "/-\u02ccsa\u026a/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abacus-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755003",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A table or tray scattered with sand which was used for calculating or drawing.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "A device used for performing arithmetical calculations; a table on which loose counters are placed, or (more commonly) an instrument with beads sliding on rods, or counters in grooves, with one row of beads or counters representing units, the next tens, etc.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "I\u2019ve heard merchants still use an abacus for adding things up in China."
+            },
+            {
+              "definition": "The uppermost portion of the capital of a column immediately under the architrave, in some cases a flat oblong or square slab, in others more decorated.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "A board, tray, or table, divided into perforated compartments for holding bottles, cups, or the like; a kind of buffet, cupboard, or sideboard.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abacus"]
+    }
+  ],
+  [
+    {
+      "word": "abaft",
+      "phonetic": "/\u0259\u02c8b\u00e6ft/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8b\u00e6ft/", "audio": "" },
+        {
+          "text": "/\u0259\u02c8b\u00e6ft/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abaft-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755004",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "definitions": [
+            {
+              "definition": "On the aft side; in the stern.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "The mate sleeps abaft."
+            },
+            { "definition": "Backwards.", "synonyms": [], "antonyms": [] }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "preposition",
+          "definitions": [
+            {
+              "definition": "Behind; toward the stern relative to some other object or position; aft of.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abaft"]
+    }
+  ],
+  [
+    {
+      "word": "abalone",
+      "phonetics": [
+        {
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abalone-au.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75266733",
+          "license": {
+            "name": "BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        { "text": "/\u00e6b.\u0259\u02c8l\u0259\u028a.ni/", "audio": "" },
+        {
+          "text": "/\u00e6b.\u0259\u02c8lo\u028a.ni/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abalone-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1328954",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "An edible univalve mollusc of the genus Haliotis, having a shell lined with mother-of-pearl.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "The meat of the aforementioned mollusc.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": ["ear-shell", "ormer", "paua", "pawa", "perlemoen"],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abalone"]
+    }
+  ],
+  [
+    {
+      "word": "abandon",
+      "phonetic": "/\u0259\u02c8b\u00e6n.d\u0259n/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8b\u00e6n.d\u0259n/", "audio": "" },
+        { "text": "/\u0259\u02c8b\u00e6n.dn\u0329/", "audio": "" },
+        {
+          "text": "/\u0259\u02c8b\u00e6n.dn\u0329/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abandon-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755007",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To desist in doing, practicing, following, holding, or adhering to; to turn away from; to permit to lapse; to renounce; to discontinue.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To leave behind; to desert as in a ship or a position, typically in response to overwhelming odds or impending dangers; to forsake, in spite of a duty or responsibility.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Many baby girls have been abandoned on the streets of Beijing."
+            },
+            {
+              "definition": "To subdue; to take control of.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To cast out; to banish; to expel; to reject.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To no longer exercise a right, title, or interest, especially with no interest of reclaiming it again; to yield; to relinquish.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To surrender to the insurer (an insured item), so as to claim a total loss.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abandon"]
+    },
+    {
+      "word": "abandon",
+      "phonetic": "/\u0259\u02c8b\u00e6n.d\u0259n/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8b\u00e6n.d\u0259n/", "audio": "" },
+        { "text": "/\u0259\u02c8b\u00e6n.dn\u0329/", "audio": "" },
+        {
+          "text": "/\u0259\u02c8b\u00e6n.dn\u0329/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abandon-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755007",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A yielding to natural impulses or inhibitions; freedom from artificial constraint, with loss of appreciation of consequences.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Abandonment; relinquishment.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "abandonment",
+            "libertinism",
+            "profligacy",
+            "unconstraint",
+            "unrestraint",
+            "wantonness"
+          ],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abandon"]
+    }
+  ],
+  [
+    {
+      "word": "abandoned",
+      "phonetic": "/\u0259\u02c8b\u00e6n.dn\u0329d/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8b\u00e6n.dn\u0329d/", "audio": "" },
+        {
+          "text": "/\u0259\u02c8b\u00e6n.dn\u0329d/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abandoned-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1749690",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To desist in doing, practicing, following, holding, or adhering to; to turn away from; to permit to lapse; to renounce; to discontinue.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To leave behind; to desert as in a ship or a position, typically in response to overwhelming odds or impending dangers; to forsake, in spite of a duty or responsibility.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Many baby girls have been abandoned on the streets of Beijing."
+            },
+            {
+              "definition": "To subdue; to take control of.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To cast out; to banish; to expel; to reject.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To no longer exercise a right, title, or interest, especially with no interest of reclaiming it again; to yield; to relinquish.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To surrender to the insurer (an insured item), so as to claim a total loss.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Having given oneself up to vice; immoral; extremely wicked, or sinning without restraint; irreclaimably wicked.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "No longer maintained by its former owners, residents or caretakers; forsaken, deserted.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Free from constraint; uninhibited.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "No longer being acted upon by the geologic forces that formed it.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "bad",
+            "careless",
+            "cast aside",
+            "corrupt",
+            "demoralized",
+            "depraved",
+            "deserted",
+            "discarded",
+            "dissolute",
+            "forsaken",
+            "graceless",
+            "hardened",
+            "impenitent",
+            "impetuous",
+            "incorrigible",
+            "irreclaimable",
+            "licentious",
+            "lost",
+            "obdurate",
+            "profligate",
+            "reckless",
+            "rejected",
+            "reprobate",
+            "shameless",
+            "sinful",
+            "uninhibited",
+            "unprincipled",
+            "unrestrained",
+            "vicious",
+            "vile",
+            "wanton",
+            "wicked",
+            "wild"
+          ],
+          "antonyms": [
+            "commendable",
+            "conscientious",
+            "correct",
+            "deserving",
+            "excellent",
+            "frequented",
+            "good",
+            "laudable",
+            "penitent",
+            "reclaimable",
+            "righteous",
+            "self-controlled",
+            "sociable",
+            "steady",
+            "upright",
+            "virtuous",
+            "visited",
+            "worthy"
+          ]
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": [
+        "https://en.wiktionary.org/wiki/abandon",
+        "https://en.wiktionary.org/wiki/abandoned"
+      ]
+    }
+  ],
+  [
+    {
+      "word": "abandonment",
+      "phonetic": "/\u0259\u02c8b\u00e6n.dn\u0329.mn\u0329t/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8b\u00e6n.dn\u0329.mn\u0329t/", "audio": "" },
+        {
+          "text": "/\u0259\u02c8b\u00e6n.dn\u0329.mn\u0329t/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abandonment-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755008",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The act of abandoning, or the state of being abandoned; total desertion; relinquishment.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "The voluntary leaving of a person to whom one is bound by a special relation, as a wife, husband or child; desertion.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Since he left her, she's suing him for divorce on grounds of abandonment."
+            },
+            {
+              "definition": "An abandoned building or structure.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "High-profile abandonments are harder to infiltrate for urban explorers due to their heightened security."
+            },
+            {
+              "definition": "The relinquishment of a right, claim, or privilege; relinquishment of right to secure a patent by an inventor; relinquishment of copyright by an author.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "The relinquishment by the insured to the underwriters of what may remain of the property insured after a loss or damage by a peril insured against.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "The cessation of service on a particular segment of the lines of a common carrier, as granted by a government agency.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "A refusal to receive freight so damaged in transit as to be worthless and render carrier liable for its value.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "The self-surrender to an outside influence.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Abandon; careless freedom or ease; surrender to one's emotions.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "abandoning",
+            "abdication",
+            "abjuration",
+            "abnegation",
+            "abrogation",
+            "cession",
+            "defection",
+            "demission",
+            "dereliction",
+            "desertion",
+            "rejection",
+            "relinquishment",
+            "renunciation",
+            "resignation",
+            "surrender"
+          ],
+          "antonyms": [
+            "acquisition",
+            "arrogation",
+            "care",
+            "completion",
+            "conviviality",
+            "correction",
+            "custody",
+            "entertainment",
+            "heed",
+            "help",
+            "hospitality",
+            "maintenance",
+            "reception",
+            "reclamation",
+            "retention",
+            "solicitude",
+            "support",
+            "tenacity",
+            "vigilance",
+            "watchfulness",
+            "welcome"
+          ]
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abandonment"]
+    }
+  ],
+  [
+    {
+      "word": "abase",
+      "phonetics": [
+        {
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abase-au.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729284",
+          "license": {
+            "name": "BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        { "text": "/\u0259\u02c8be\u026as/", "audio": "" },
+        {
+          "text": "/\u0259\u02c8be\u026as/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abase-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755009",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To lower, as in condition in life, office, rank, etc., so as to cause pain or hurt feelings; to degrade, to depress, to humble, to humiliate.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To lower physically; to depress; to cast or throw down; to stoop.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "to abase the eye"
+            },
+            {
+              "definition": "To lower in value, in particular by altering the content of alloys in coins; to debase.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "downgrade",
+            "bring down",
+            "lower",
+            "reduce",
+            "degrade",
+            "demean",
+            "depress",
+            "discredit",
+            "disgrace",
+            "dishonor",
+            "humble",
+            "humiliate",
+            "sink"
+          ],
+          "antonyms": [
+            "aggrandise",
+            "dignify",
+            "elevate",
+            "exalt",
+            "extol",
+            "honor",
+            "promote",
+            "raise",
+            "uplift"
+          ]
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abase"]
+    }
+  ],
+  [
+    {
+      "word": "abased",
+      "phonetic": "/\u0259\u02c8be\u026ast/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8be\u026ast/", "audio": "" },
+        { "text": "/\u0259\u02c8be\u026ast/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To lower, as in condition in life, office, rank, etc., so as to cause pain or hurt feelings; to degrade, to depress, to humble, to humiliate.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To lower physically; to depress; to cast or throw down; to stoop.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "to abase the eye"
+            },
+            {
+              "definition": "To lower in value, in particular by altering the content of alloys in coins; to debase.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "downgrade",
+            "bring down",
+            "lower",
+            "reduce",
+            "degrade",
+            "demean",
+            "depress",
+            "discredit",
+            "disgrace",
+            "dishonor",
+            "humble",
+            "humiliate",
+            "sink"
+          ],
+          "antonyms": [
+            "aggrandise",
+            "dignify",
+            "elevate",
+            "exalt",
+            "extol",
+            "honor",
+            "promote",
+            "raise",
+            "uplift"
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Humbled; lowered, especially in rank, position, or prestige.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Borne lower than usual, as a fess; also, having the ends of the wings turned downward towards the point of the shield.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": [
+        "https://en.wiktionary.org/wiki/abase",
+        "https://en.wiktionary.org/wiki/abased"
+      ]
+    }
+  ],
+  [
+    {
+      "word": "abasement",
+      "phonetic": "/\u0259\u02c8be\u026as.m\u0259nt/",
+      "phonetics": [
+        {
+          "text": "/\u0259\u02c8be\u026as.m\u0259nt/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abasement-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=323591"
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The act of abasing, humbling, or bringing low.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "The state of being abased or humbled; humiliation.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "abjection",
+            "debasement",
+            "degeneracy",
+            "degeneration",
+            "degradation",
+            "depravation",
+            "depression",
+            "deterioration",
+            "discredit",
+            "dishonor",
+            "fall",
+            "humiliation",
+            "lowering",
+            "perversion",
+            "reduction",
+            "shame",
+            "subserviency",
+            "vitiation"
+          ],
+          "antonyms": [
+            "aggrandizement",
+            "dignity",
+            "elevation",
+            "exaltation",
+            "honor",
+            "promotion",
+            "reputation",
+            "repute",
+            "standing",
+            "supremacy"
+          ]
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abasement"]
+    }
+  ],
+  [
+    {
+      "word": "abash",
+      "phonetic": "/\u0259\u02c8b\u00e6\u0283/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8b\u00e6\u0283/", "audio": "" },
+        {
+          "text": "/\u0259\u02c8b\u00e6\u0283/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abash-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755010",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To make ashamed; to embarrass; to destroy the self-possession of, as by exciting suddenly a consciousness of guilt, mistake, or inferiority; to disconcert; to discomfit.",
+              "synonyms": [
+                "bewilder",
+                "confound",
+                "confuse",
+                "daunt",
+                "discompose",
+                "disconcert",
+                "discountenance",
+                "dishearten",
+                "embarrass",
+                "faze",
+                "fluster",
+                "humble",
+                "humiliate",
+                "mortify",
+                "rattle",
+                "shake",
+                "shame",
+                "snub"
+              ],
+              "antonyms": [
+                "abet",
+                "animate",
+                "buoy",
+                "cheer",
+                "countenance",
+                "embolden",
+                "encourage",
+                "incite",
+                "inspirit",
+                "rally",
+                "reassure",
+                "uphold"
+              ]
+            },
+            {
+              "definition": "To lose self-possession; to become ashamed.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "bewilder",
+            "confound",
+            "confuse",
+            "daunt",
+            "discompose",
+            "disconcert",
+            "discountenance",
+            "dishearten",
+            "embarrass",
+            "faze",
+            "fluster",
+            "humble",
+            "humiliate",
+            "mortify",
+            "rattle",
+            "shake",
+            "shame",
+            "snub"
+          ],
+          "antonyms": [
+            "abet",
+            "animate",
+            "buoy",
+            "cheer",
+            "countenance",
+            "embolden",
+            "encourage",
+            "incite",
+            "inspirit",
+            "rally",
+            "reassure",
+            "uphold"
+          ]
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abash"]
+    }
+  ],
+  [
+    {
+      "word": "abashed",
+      "phonetic": "/\u0259\u02c8b\u00e6\u0283t/",
+      "phonetics": [{ "text": "/\u0259\u02c8b\u00e6\u0283t/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To make ashamed; to embarrass; to destroy the self-possession of, as by exciting suddenly a consciousness of guilt, mistake, or inferiority; to disconcert; to discomfit.",
+              "synonyms": [
+                "bewilder",
+                "confound",
+                "confuse",
+                "daunt",
+                "discompose",
+                "disconcert",
+                "discountenance",
+                "dishearten",
+                "embarrass",
+                "faze",
+                "fluster",
+                "humble",
+                "humiliate",
+                "mortify",
+                "rattle",
+                "shake",
+                "shame",
+                "snub"
+              ],
+              "antonyms": [
+                "abet",
+                "animate",
+                "buoy",
+                "cheer",
+                "countenance",
+                "embolden",
+                "encourage",
+                "incite",
+                "inspirit",
+                "rally",
+                "reassure",
+                "uphold"
+              ]
+            },
+            {
+              "definition": "To lose self-possession; to become ashamed.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "bewilder",
+            "confound",
+            "confuse",
+            "daunt",
+            "discompose",
+            "disconcert",
+            "discountenance",
+            "dishearten",
+            "embarrass",
+            "faze",
+            "fluster",
+            "humble",
+            "humiliate",
+            "mortify",
+            "rattle",
+            "shake",
+            "shame",
+            "snub"
+          ],
+          "antonyms": [
+            "abet",
+            "animate",
+            "buoy",
+            "cheer",
+            "countenance",
+            "embolden",
+            "encourage",
+            "incite",
+            "inspirit",
+            "rally",
+            "reassure",
+            "uphold"
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Embarrassed, disconcerted, or ashamed.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": [
+        "https://en.wiktionary.org/wiki/abash",
+        "https://en.wiktionary.org/wiki/abashed"
+      ]
+    }
+  ],
+  [
+    {
+      "word": "abate",
+      "phonetic": "/\u0259\u02c8be\u026at/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8be\u026at/", "audio": "" },
+        { "text": "/\u0259\u02c8be\u026at/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            { "definition": "Abatement.", "synonyms": [], "antonyms": [] }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "(obsolete outside law) To put an end to; to cause to cease.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "to abate a nuisance"
+            },
+            {
+              "definition": "To become null and void.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "The writ has abated."
+            },
+            {
+              "definition": "To nullify; make void.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "to abate a writ"
+            },
+            {
+              "definition": "To humble; to lower in status; to bring someone down physically or mentally.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To be humbled; to be brought down physically or mentally.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To curtail; to deprive.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Order restrictions and prohibitions to abate an emergency situation."
+            },
+            {
+              "definition": "To reduce in amount, size, or value.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "Legacies are liable to be abated entirely or in proportion, upon a deficiency of assets."
+            },
+            {
+              "definition": "To decrease in size, value, or amount.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To moderate; to lessen in force, intensity, to subside.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To decrease in intensity or force; to subside.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To deduct or omit.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "We will abate this price from the total."
+            },
+            {
+              "definition": "To bar or except.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To cut away or hammer down, in such a way as to leave a figure in relief, as a sculpture, or in metalwork.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To dull the edge or point of; to blunt.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "To destroy, or level to the ground.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "contract",
+            "cut short",
+            "decrease",
+            "diminish",
+            "lessen",
+            "lower",
+            "moderate",
+            "remit",
+            "remove",
+            "slacken",
+            "suppress",
+            "terminate",
+            "appease",
+            "depress",
+            "humble",
+            "pacify",
+            "soften",
+            "soothe",
+            "tranquilize",
+            "fail",
+            "fall through",
+            "alleviate",
+            "assuage",
+            "decline",
+            "diminish",
+            "ebb",
+            "mitigate",
+            "relax",
+            "subside",
+            "temper",
+            "wane"
+          ],
+          "antonyms": [
+            "accelerate",
+            "aggravate",
+            "amplify",
+            "augment",
+            "continue",
+            "develop",
+            "enhance",
+            "enlarge",
+            "extend",
+            "foment",
+            "increase",
+            "intensify",
+            "magnify",
+            "prolong",
+            "raise",
+            "revive",
+            "rise"
+          ]
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abate"]
+    },
+    {
+      "word": "abate",
+      "phonetic": "/\u0259\u02c8be\u026at/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8be\u026at/", "audio": "" },
+        { "text": "/\u0259\u02c8be\u026at/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To enter a tenement without permission after the owner has died and before the heir takes possession.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abate"]
+    },
+    {
+      "word": "abate",
+      "phonetic": "/\u0259\u02c8be\u026at/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8be\u026at/", "audio": "" },
+        { "text": "/\u0259\u02c8be\u026at/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "An Italian abbot, or other member of the clergy.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abate"]
+    }
+  ],
+  [
+    {
+      "word": "abatement",
+      "phonetic": "/\u0259\u02c8be\u026at.m\u0259nt/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8be\u026at.m\u0259nt/", "audio": "" },
+        {
+          "text": "/\u0259\u02c8be\u026at.m\u0259nt/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abatement-1-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1637619",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The act of abating, or the state of being abated; a lessening, diminution, or reduction; a moderation; removal or putting an end to; the suppression of.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "The abatement of a nuisance is the suppression thereof."
+            },
+            {
+              "definition": "The amount abated; that which is taken away by way of reduction; deduction; decrease; a rebate or discount allowed; in particular from a tax.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "A mark of dishonor on an escutcheon; any figure added to the coat of arms tending to lower the dignity or station of the bearer.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abatement"]
+    },
+    {
+      "word": "abatement",
+      "phonetics": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The action of a person that abates, or without proper authority enters a residence after the death of the owner and before the heir takes possession.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "The reduction of the proceeds of a will, when the debts have not yet been satisfied; the reduction of taxes due.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abatement"]
+    }
+  ],
+  [
+    {
+      "word": "abatis",
+      "phonetic": "/\u02c8\u00e6b.\u0259\u02ccti\u02d0/",
+      "phonetics": [
+        { "text": "/\u02c8\u00e6b.\u0259\u02ccti\u02d0/", "audio": "" },
+        { "text": "/\u02c8\u00e6b.\u0259.t\u026as/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A means of defense formed by felled trees, or sometimes by bent trees, the ends of whose branches are sharpened and directed outwards, or against the enemy, and more recently fortified with barbed wire.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "In the middle ages, an officer of the stables who had the care of measuring out the provender; an avenor.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "In fortification, a barricade made of felled trees denuded of their smaller branches, with the butt-ends of the trunks embedded in the earth or secured by pickets, and the sharpened ends of the branches directed upward and outward toward an advancing enemy, for the purpose of obstructing his progress. In field-fortifications the abatis is usually constructed in front of the ditch. See fortification.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "In coal-mining, walls of cord-wood piled up crosswise to keep the underground roads open so as to secure ventilation.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abatis"]
+    }
+  ],
+  [
+    {
+      "word": "abattoir",
+      "phonetics": [
+        {
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abattoir-au.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729287",
+          "license": {
+            "name": "BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "text": "/\u02c8\u00e6b.\u0259\u02cctw\u0251\u02d0(\u0279)/",
+          "audio": ""
+        },
+        {
+          "text": "/\u02c8\u00e6b.\u0259\u02cctw\u0251/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abattoir-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=5372616",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A public slaughterhouse for cattle, sheep, etc.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "A place likened to a slaughterhouse.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abattoir"]
+    }
+  ],
+  [
+    {
+      "word": "abaxial",
+      "phonetic": "/\u00e6b\u02c8\u00e6k.si.\u0259l/",
+      "phonetics": [
+        { "text": "/\u00e6b\u02c8\u00e6k.si.\u0259l/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Of a side that is facing away from the axis or central line, such as the underside of a leaf; or the back of an animal.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "Not in the axis. Applied to an embryo placed out of the axis of the seed.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": ["dorsal", "eccentric"],
+          "antonyms": ["adaxial"]
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abaxial"]
+    }
+  ],
+  [
+    {
+      "word": "abba",
+      "phonetic": "/\u00e6\u02c8b\u0251/",
+      "phonetics": [
+        { "text": "/\u00e6\u02c8b\u0251/", "audio": "" },
+        { "text": "/\u00e6\u02c8b\u0251/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Father; religious superior; in the Syriac, Coptic, and Ethiopic churches, a title given to the bishops, and by the bishops to the patriarch; a title given to Jewish scholars in the Talmudic period.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abba"]
+    },
+    {
+      "word": "abba",
+      "phonetics": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A coarse, often striped, felted fabric from the Middle East, woven from goat or camel hair.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "A loose-fitting sleeveless garment, made from aba or silk, worn by Arabs.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "An outer garment made of the above, very simple in form, worn by the Arabs of the desert. The illustration shows such an aba, made of two breadths of stuff sewed together to make an oblong about four by nine feet.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": ["abaya"],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": [
+        "https://en.wiktionary.org/wiki/aba",
+        "https://en.wiktionary.org/wiki/abba"
+      ]
+    }
+  ],
+  [
+    {
+      "word": "abbacy",
+      "phonetic": "/\u02c8\u00e6b.\u0259.si/",
+      "phonetics": [{ "text": "/\u02c8\u00e6b.\u0259.si/", "audio": "" }],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The dignity, estate, term, or jurisdiction of an abbot or abbess.",
+              "synonyms": ["abbotric (obsolete)", "abbotrick (obsolete)"],
+              "antonyms": []
+            }
+          ],
+          "synonyms": ["abbotric (obsolete)", "abbotrick (obsolete)"],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abbacy"]
+    }
+  ],
+  [
+    {
+      "word": "abbatial",
+      "phonetic": "/\u0259\u02c8be\u026a.\u0283l\u0329/",
+      "phonetics": [
+        { "text": "/\u0259\u02c8be\u026a.\u0283l\u0329/", "audio": "" }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Belonging to, relating to, or pertaining to an abbey, abbot, or abbess.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abbatial"]
+    }
+  ],
+  [
+    {
+      "word": "abbess",
+      "phonetic": "/\u02c8\u00e6b.\u025bs/",
+      "phonetics": [
+        { "text": "/\u02c8\u00e6b.\u025bs/", "audio": "" },
+        {
+          "text": "/\u02c8\u00e6b.\u025bs/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abbess-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755012",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A female superior or governess of a nunnery, or convent of nuns, having the same authority over the nuns which the abbots have over the monks.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "The abbess was always after the nuns to keep the convent immaculately clean."
+            },
+            {
+              "definition": "(British slang) A woman who runs a brothel; a woman employed by a prostitute to find clients.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "mother superior",
+            "Covent Garden abbess",
+            "bawd",
+            "lady abbess",
+            "madam"
+          ],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abbess"]
+    }
+  ],
+  [
+    {
+      "word": "abbey",
+      "phonetic": "/\u02c8\u00e6b.i/",
+      "phonetics": [
+        {
+          "text": "/\u02c8\u00e6b.i/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abbey-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2453810",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The office or dominion of an abbot or abbess.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "A monastery or society of people, secluded from the world and devoted to religion and celibacy, which is headed by an abbot or abbess; also, the monastic building or buildings.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "The church of a monastery.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "A residence that was previously an abbatial building.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abbey"]
+    }
+  ],
+  [
+    {
+      "word": "abbot",
+      "phonetic": "/\u02c8\u00e6b.\u0259t/",
+      "phonetics": [
+        { "text": "/\u02c8\u00e6b.\u0259t/", "audio": "" },
+        {
+          "text": "/\u02c8\u00e6b.\u0259t/",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abbot-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755014",
+          "license": {
+            "name": "BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The superior or head of an abbey or monastery.",
+              "synonyms": [],
+              "antonyms": [],
+              "example": "The newly appointed abbot decided to take a tour of the abbey with the cardinal's emissary."
+            },
+            {
+              "definition": "The pastor and/or administrator of an order, including minor and major orders starting with the minor order of porter.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "A layman who received the abbey's revenues, after the closing of the monasteries.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "(British slang) A brothel-owner's husband or lover.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "(British slang) A ponce; a man employed by a prostitute to find clients, and who may also act as a bodyguard or equivalent to a bouncer.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [],
+          "antonyms": []
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": ["https://en.wiktionary.org/wiki/abbot"]
+    }
+  ]
+]
