@@ -37,6 +37,9 @@ class Trie {
       list.push(curr);
     }
 
+    if (list.length >= 3) {
+      return;
+    }
     if (!Object.keys(node.children).length) return;
 
     for (let child in node.children) {

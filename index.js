@@ -67,7 +67,7 @@ app.post("/search", (req, res) => {
 app.post("/suggest", (req, res) => {
   let { word } = req.body;
 
-  let suggestList = trie.suggest(word);
+  let suggestList = trie.suggest(word.toLowerCase());
   console.log(suggestList);
   res.send({ suggest: suggestList });
 });
