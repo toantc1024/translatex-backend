@@ -43,7 +43,6 @@ class Trie {
     if (!Object.keys(node.children).length) return;
 
     for (let child in node.children) {
-      console.log(child);
       this.suggestHelper(node.children[child], list, curr + child);
     }
   }

@@ -10,24 +10,20 @@ const dumpDataToFile = (filePath, data) => {
 };
 
 const appendDataToFile = (filePath, new_data) => {
-  const data = readDataFromFile(filePath);
-  // Maybe we want to know if new_data in data or not before append
-  //
+  return new Promise((resolve, reject) => {
+    const data = readDataFromFile(filePath);
+    const key = Object.keys(new_data)[0];
+    data[key] = new_data[key];
+    console.log(filePath);
 
-  const key = Object.keys(new_data)[0];
-  data[key] = new_data[key];
-  //   console.log(filePath, data);
-  console.log(filePath);
-
-  try {
-    dumpDataToFile(filePath, JSON.stringify(data));
-  } catch (error) {
-    return false;
-  }
-
-  return true;
+    try {
+      dumpDataToFile(filePath, JSON.stringify(data));
+      resolve(true);
+    } catch (error) {
+      reject(false);
+    }
+  });
 };
-
 const cleanDataset = (filePath) => {
   dumpDataToFile(
     filePath,
