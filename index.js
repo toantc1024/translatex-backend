@@ -5,14 +5,15 @@ const {
   appendDataToFile,
 } = require("./utils/fileWorker");
 const Trie = require("./trie");
-const Hash_dictionary = require("./hash-dictionary");
-
+const { Hash_dictionary, Binary_tree } = require("./hash-dictionary");
+const wordList = [];
 const app = express();
 app.use(express.json());
 const port = 4000;
 let dataset_path = "E2V-Dataset.json";
 
 const data = readDataFromFile(`./dataset/${dataset_path}`);
+let binary_tree = new Binary_tree();
 let hash_dictionary = new Hash_dictionary(data);
 let trie = new Trie();
 
@@ -27,10 +28,21 @@ const load_data = () => {
     console.log(`Successfully loaded hash in ${time}ms with ${store} words`);
   });
 };
-
+app.post("/insert", (req, res) => {
+  const { word } = req.body;
+  binary_tree.insert(word);
+  // wordList.push(word);
+  res.send({ status: "Insert successful" });
+});
+app.get("/view", (req, res) => {
+  const listNode = binary_tree.getNodeValues();
+  res.send(listNode);
+});
 app.post("/delete", (req, res) => {
   const { word } = req.body;
-  // result =
+  binary_tree.delete(word);
+
+  res.send({ status: "Delete successful" });
 });
 
 app.put("/add", (req, res) => {
