@@ -28,6 +28,20 @@ const appendDataToFile = (filePath, new_data) => {
   return true;
 };
 
+const cleanDataset = (filePath) => {
+  dumpDataToFile(
+    filePath,
+    JSON.stringify(
+      Object.entries(readDataFromFile(filePath)).reduce((acc, x) => {
+        acc[x[0]] = x[1][0];
+        return acc;
+      }, {})
+    )
+  );
+};
+
+// cleanDataset("../dataset/E2V-Dataset.json");
+
 const removeDataFromFile = (filePath, key) => {};
 
 module.exports = { readDataFromFile, appendDataToFile, dumpDataToFile };

@@ -19,12 +19,12 @@ let trie = new Trie();
 const load_data = () => {
   trie.build_trie(Object.keys(data)).then((result) => {
     const { time } = result;
-    console.log(`Successfully loaded trie in ${time}`);
+    console.log(`Successfully loaded trie in ${time}ms`);
   });
 
   hash_dictionary.start_process().then((result) => {
     const { time, store } = result;
-    console.log(`Successfully loaded hash in ${time} with ${store} words`);
+    console.log(`Successfully loaded hash in ${time}ms with ${store} words`);
   });
 };
 
