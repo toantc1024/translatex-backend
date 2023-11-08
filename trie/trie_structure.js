@@ -21,6 +21,17 @@ class Trie {
     });
   }
 
+  search(word) {
+    let node = this.root;
+    for (let i = 0; i < word.length; i++) {
+      if (!node.children[word[i]]) {
+        return false;
+      }
+      node = node.children[word[i]];
+    }
+    return node.isWord;
+  }
+
   insert(word) {
     let node = this.root;
     for (let i = 0; i < word.length; i++) {

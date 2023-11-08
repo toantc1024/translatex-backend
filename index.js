@@ -6,7 +6,7 @@ const {
 } = require("./utils/fileWorker");
 const Trie = require("./trie");
 const Hash_dictionary = require("./hash-dictionary");
-
+const WordBook = require("./wordbook");
 const app = express();
 app.use(express.json());
 const port = 4000;
@@ -92,4 +92,21 @@ app.get("/process", (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
   load_data();
+});
+
+// Routes for wordbook
+app.post("/wordbook/add", (req, res) => {
+  const { word } = req.body;
+  // if (wordbook.check_word(word)) {
+  //   res.status(400);
+  //   res.send({ status: "existed" });
+  //   return;
+  // }
+  wordbook.insert_word(req.body);
+  res.status(200);
+  res.send({ status: "success" });
+});
+
+app.get("/wordbook/get", (req, res) => {
+  res.send({ words: wordbook.get_all_words() });
 });
