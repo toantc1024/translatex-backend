@@ -1,5 +1,5 @@
 "use strict";
-const LinkedListWord = require("../linkedlist");
+const { LinkedListWord } = require("../linkedlist");
 
 class Hash_dictionary {
   constructor(data, slot_size) {
@@ -39,7 +39,7 @@ class Hash_dictionary {
   }
 
   insert(data) {
-    console.log("Added", data.word);
+    // console.log("Added", data.word);
     let index = this.hash_function(data.word);
     this.table[index].insert(data);
   }

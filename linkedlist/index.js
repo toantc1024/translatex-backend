@@ -53,11 +53,13 @@ class LinkedList {
   }
 
   getAllWord() {
+    let words = [];
     let current = this.head;
     while (current != null) {
-      console.log(current.data);
+      words.push(current.data);
       current = current.next;
     }
+    return words;
   }
 
   find(data) {
@@ -75,7 +77,7 @@ class LinkedList {
 }
 
 class LinkedListWord {
-  constructor() {
+  constructor(cmp) {
     this.comparator = (a, b) => {
       return a.word === b.word;
     };
@@ -99,6 +101,38 @@ class LinkedListWord {
   }
 }
 
+class LinkedListMemory {
+  constructor() {
+    this.comparator = (a, b) => {
+      return a.word == b.word && a.type == b.type;
+    };
+    this.list = new LinkedList(this.comparator);
+  }
+
+  insert(data) {
+    this.list.insert(data);
+  }
+
+  search(key, type) {
+    return this.list.find({ word: key, type: type });
+  }
+
+  delete(key) {
+    return this.list.delete({ word: key });
+  }
+
+  isEmpty() {
+    return this.head === null;
+  }
+
+  getAllWord() {
+    if (this.isEmpty()) {
+      return [];
+    }
+    return this.list.getAllWord();
+  }
+}
+
 let testClass = () => {
   let wordList = new LinkedListWord();
   let words = ["hello"];
@@ -109,4 +143,4 @@ let testClass = () => {
 
 testClass();
 
-module.exports = LinkedListWord;
+module.exports = { LinkedListWord, LinkedListMemory };

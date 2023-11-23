@@ -15,8 +15,12 @@ let dataset_path = "E2V-Dataset.json";
 const data = readDataFromFile(`./dataset/${dataset_path}`);
 let hash_dictionary = new Hash_dictionary(data);
 let trie = new Trie();
+let wordbook = new WordBook();
+
+let words = [];
 
 const load_data = () => {
+  words = Object.keys(data);
   trie.build_trie(Object.keys(data)).then((result) => {
     const { time } = result;
     console.log(`Successfully loaded trie in ${time}ms`);
@@ -28,6 +32,50 @@ const load_data = () => {
     );
   });
 };
+
+const randomElementFromArray = (array) => {
+  if (!array.length) {
+    return false;
+  }
+  let index = Math.floor(Math.random() * array.length);
+  return array[index];
+};
+
+app.post("/random/get_random_words", (req, res) => {
+  const { word, number } = req.body;
+
+  let list = [];
+  let i = 0;
+  while (list.length < number) {
+    // code
+    let consensus = Math.floor(Math.random() * 5);
+    if (consensus % 2 == 0 || consensus % 3 || consensus % 5 == 0) {
+      // Get from trie
+      let search_result = trie.suggest(word[0]);
+      console.log(search_result);
+      let ele = randomElementFromArray(search_result);
+      if (ele && ele != word && !list.includes(ele)) {
+        list.push(ele);
+      }
+    } else {
+      // Get from words
+      let ele = randomElementFromArray(words);
+      if (ele && ele != word && !list.includes(ele)) {
+        list.push(ele);
+      }
+    }
+
+    i++;
+  }
+
+  if (list.length) {
+    res.status(200);
+    res.send({ words: list });
+  } else {
+    res.status(400);
+    res.send({ status: "fail" });
+  }
+});
 
 app.post("/delete", (req, res) => {
   const { word } = req.body;
@@ -95,18 +143,98 @@ app.listen(port, () => {
 });
 
 // Routes for wordbook
-app.post("/wordbook/add", (req, res) => {
+app.put("/wordbook/add", (req, res) => {
   const { word } = req.body;
   // if (wordbook.check_word(word)) {
   //   res.status(400);
   //   res.send({ status: "existed" });
   //   return;
   // }
-  wordbook.insert_word(req.body);
-  res.status(200);
-  res.send({ status: "success" });
+  if (wordbook.insert_word(word)) {
+    res.status(200);
+    res.send({ status: true });
+  } else {
+    res.status(400);
+    res.send({ status: false });
+  }
+});
+
+app.get("/wordbook/generate_questions", (req, res) => {
+  let questions = wordbook.generateQuestions();
+  res.send({ questions });
+});
+
+app.get("/wordbook/get_memory", (req, res) => {
+  res.send({ memory: wordbook.memory.getAllWord() });
+});
+
+app.get("/wordbook/get_memory_freq", (req, res) => {
+  res.send({ freq: wordbook.memory.getFreq() });
+});
+
+app.post("/wordbook/update_freq", (req, res) => {
+  const { word } = req.body;
+  wordbook.updateFreq(word);
+  res.send({ status: true });
+});
+
+app.post("/wordbook/add_memory", (req, res) => {
+  const { word, type } = req.body;
+  if (wordbook.addToMemory({ word, type })) {
+    res.status(200);
+    res.send({ status: true });
+  } else {
+    res.status(400);
+    res.send({ status: false });
+  }
 });
 
 app.get("/wordbook/get", (req, res) => {
   res.send({ words: wordbook.get_all_words() });
+});
+
+app.delete("/wordbook/delete", (req, res) => {
+  const { uid } = req.body;
+  if (wordbook.delete_word(uid)) {
+    res.status(200);
+    res.send({ status: true });
+  } else {
+    res.status(400);
+    res.send({ status: false });
+  }
+});
+
+app.post("/wordbook/check", (req, res) => {
+  const { word } = req.body;
+  let status = wordbook.check_word(word);
+  res.status(200);
+  res.send({ status: status });
+});
+
+app.get("/wordbook/get_random", (req, res) => {
+  const { number } = req.body;
+  res.send({ words: wordbook.get_random_words(number) });
+});
+
+app.get("/wordbook/get_by_group", (req, res) => {
+  const { group } = req.body;
+  res.send({ words: wordbook.get_words_by_group(group) });
+});
+
+app.post("/wordbook/suggest", (req, res) => {
+  const { word } = req.body;
+  res.send({ suggest: wordbook.suggest(word) });
+});
+
+// Routes for data object
+app.get("/data/wordoftheday", (req, res) => {
+  let keys = Object.keys(data);
+  // Get key from keys by today hash
+  let today = new Date();
+  let today_hash = today.getDate() + today.getMonth() + today.getFullYear();
+  let index = today_hash % keys.length;
+  let word = keys[index];
+  let result = hash_dictionary.search(word);
+
+  res.send({ word: result });
 });

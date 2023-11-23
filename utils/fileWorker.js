@@ -26,10 +26,10 @@ const appendDataToFile = (filePath, new_data) => {
 };
 const cleanDataset = (filePath) => {
   dumpDataToFile(
-    filePath,
+    `${filePath}_CLEAN_VERSION`,
     JSON.stringify(
       Object.entries(readDataFromFile(filePath)).reduce((acc, x) => {
-        acc[x[0]] = x[1][0];
+        acc[x[1][0]["word"]] = x[1][0];
         return acc;
       }, {})
     )
