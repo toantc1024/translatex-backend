@@ -33,6 +33,18 @@ const load_data = () => {
   });
 };
 
+const getMostFrequentWord = () => {
+  let max = 0;
+  let word = "";
+  for (let key in data) {
+    if (data[key].freq > max) {
+      max = data[key].freq;
+      word = key;
+    }
+  }
+  return word;
+};
+
 const randomElementFromArray = (array) => {
   if (!array.length) {
     return false;
@@ -103,15 +115,32 @@ app.put("/add", async (req, res) => {
   }
 });
 
+let history = [];
+const addToHistory = (word) => {
+  // Get current time
+  const timestamp = Date.now();
+  const date = new Date(timestamp);
+  const formattedDate = date.toLocaleDateString();
+  const formattedTime = date.toLocaleTimeString();
+  history.push({ word: word, time: timestamp });
+};
+
+app.get("/history", (req, res) => {
+  res.status(200);
+  res.send({ history: history });
+});
+
 app.post("/search", (req, res) => {
   // const data = JSON.parse(req.body);
   const { word } = req.body;
+
   result = hash_dictionary.search(word.toLowerCase());
   if (!result) {
     result = null;
   }
-  // Translate result
 
+  // Translate result
+  addToHistory(word);
   res.send({ word: result });
 });
 
